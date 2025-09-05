@@ -1,0 +1,22 @@
+* {
+    background-color: #000000;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+a {
+    color: green;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    color: white;
+}
+
+xmp {
+    color: yellowgreen;
+    display: block;
+    border-color: white;
+    border-style: outset;
+    border-radius: 20px;
+}
+
